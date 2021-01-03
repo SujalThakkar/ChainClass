@@ -82,7 +82,7 @@ function draw(){
 
     box3.display();
     box4.display();
-    pig3.display();
+    pig2.display();
     log3.display();
 
     box5.display();
